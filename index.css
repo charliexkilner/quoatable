@@ -1,0 +1,60 @@
+.card-body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.card{
+    width: 70% !important;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    
+}
+
+.card-footer{
+    font-family: 'Source Sans Pro', sans-serif;
+    letter-spacing: 1px;
+    border: none !important;
+
+}
+
+header{
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+  .plus{
+      text-align: center;
+      font-size: 22px;
+  }
+
+  .hi{
+    text-align: right ;
+    align-content: right;
+  }
+  .btn-block{
+      width: 50% !important;
+      display: inline;
+  }
+
+  .btn-secondary{
+      color: lightgrey !important;
+  }
+
+  .button{
+      background-color: #efefef !important;
+      font-size: 12px !important;
+  }
+  mark{
+    background-color: #6E1EFF !important;
+    color: white;
+  }
+
+  .mb-style-2 blockquote p {
+	font-size: 24px;
+	background: #efefef;
+	display: inline;
+	color: #000;
+	text-shadow: 0 1px 1px rgba(255,255,255,0.5);
+	line-height: 46px;
+	box-shadow: 0 8px 0 #ccc;
+}
+#6E1EFF
